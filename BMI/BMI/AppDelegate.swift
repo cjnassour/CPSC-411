@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  P1
+//  BMI
 //
-//  Created by CampusUser on 2/7/17.
+//  Created by CampusUser on 2/21/17.
 //  Copyright © 2017 CampusUser. All rights reserved.
 //
 

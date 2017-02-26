@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "630096741E4A811F000354DC"
-               BuildableName = "P1.app"
-               BlueprintName = "P1"
-               ReferencedContainer = "container:P1.xcodeproj">
+               BlueprintIdentifier = "635CA0C71E5D007C00F1D133"
+               BuildableName = "BMI.app"
+               BlueprintName = "BMI"
+               ReferencedContainer = "container:BMI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "630096881E4A8121000354DC"
-               BuildableName = "P1Tests.xctest"
-               BlueprintName = "P1Tests"
-               ReferencedContainer = "container:P1.xcodeproj">
+               BlueprintIdentifier = "635CA0DB1E5D007E00F1D133"
+               BuildableName = "BMITests.xctest"
+               BlueprintName = "BMITests"
+               ReferencedContainer = "container:BMI.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "630096931E4A8121000354DC"
-               BuildableName = "P1UITests.xctest"
-               BlueprintName = "P1UITests"
-               ReferencedContainer = "container:P1.xcodeproj">
+               BlueprintIdentifier = "635CA0E61E5D007E00F1D133"
+               BuildableName = "BMIUITests.xctest"
+               BlueprintName = "BMIUITests"
+               ReferencedContainer = "container:BMI.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "630096741E4A811F000354DC"
-            BuildableName = "P1.app"
-            BlueprintName = "P1"
-            ReferencedContainer = "container:P1.xcodeproj">
+            BlueprintIdentifier = "635CA0C71E5D007C00F1D133"
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "630096741E4A811F000354DC"
-            BuildableName = "P1.app"
-            BlueprintName = "P1"
-            ReferencedContainer = "container:P1.xcodeproj">
+            BlueprintIdentifier = "635CA0C71E5D007C00F1D133"
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "630096741E4A811F000354DC"
-            BuildableName = "P1.app"
-            BlueprintName = "P1"
-            ReferencedContainer = "container:P1.xcodeproj">
+            BlueprintIdentifier = "635CA0C71E5D007C00F1D133"
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

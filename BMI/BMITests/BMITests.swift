@@ -1,15 +1,15 @@
 //
-//  P1Tests.swift
-//  P1Tests
+//  BMITests.swift
+//  BMITests
 //
-//  Created by CampusUser on 2/7/17.
+//  Created by CampusUser on 2/21/17.
 //  Copyright © 2017 CampusUser. All rights reserved.
 //
 
 import XCTest
-@testable import P1
+@testable import BMI
 
-class P1Tests: XCTestCase {
+class BMITests: XCTestCase {
     
     override func setUp() {
         super.setUp()

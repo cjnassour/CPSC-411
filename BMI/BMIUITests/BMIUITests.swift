@@ -1,14 +1,14 @@
 //
-//  P1UITests.swift
-//  P1UITests
+//  BMIUITests.swift
+//  BMIUITests
 //
-//  Created by CampusUser on 2/7/17.
+//  Created by CampusUser on 2/21/17.
 //  Copyright © 2017 CampusUser. All rights reserved.
 //
 
 import XCTest
 
-class P1UITests: XCTestCase {
+class BMIUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
