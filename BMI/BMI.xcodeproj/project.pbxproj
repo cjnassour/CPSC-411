@@ -14,7 +14,7 @@
 		635CA0D61E5D007E00F1D133 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 635CA0D41E5D007E00F1D133 /* LaunchScreen.storyboard */; };
 		635CA0E11E5D007E00F1D133 /* BMITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635CA0E01E5D007E00F1D133 /* BMITests.swift */; };
 		635CA0EC1E5D007E00F1D133 /* BMIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635CA0EB1E5D007E00F1D133 /* BMIUITests.swift */; };
-		635CA0FA1E5D0B0900F1D133 /* buttonYELLOW.png in Resources */ = {isa = PBXBuildFile; fileRef = 635CA0F91E5D0B0900F1D133 /* buttonYELLOW.png */; };
+		635CA1701E64E29000F1D133 /* buttonYELLOW.png in Resources */ = {isa = PBXBuildFile; fileRef = 635CA16F1E64E29000F1D133 /* buttonYELLOW.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		635CA0E71E5D007E00F1D133 /* BMIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		635CA0EB1E5D007E00F1D133 /* BMIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIUITests.swift; sourceTree = "<group>"; };
 		635CA0ED1E5D007E00F1D133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		635CA0F91E5D0B0900F1D133 /* buttonYELLOW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buttonYELLOW.png; path = ../../../../Downloads/buttonYELLOW.png; sourceTree = "<group>"; };
+		635CA16F1E64E29000F1D133 /* buttonYELLOW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buttonYELLOW.png; path = ../../../buttonYELLOW.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 				635CA0CB1E5D007D00F1D133 /* AppDelegate.swift */,
 				635CA0CD1E5D007D00F1D133 /* ViewController.swift */,
 				635CA0CF1E5D007D00F1D133 /* Main.storyboard */,
-				635CA0F91E5D0B0900F1D133 /* buttonYELLOW.png */,
+				635CA16F1E64E29000F1D133 /* buttonYELLOW.png */,
 				635CA0D21E5D007E00F1D133 /* Assets.xcassets */,
 				635CA0D41E5D007E00F1D133 /* LaunchScreen.storyboard */,
 				635CA0D71E5D007E00F1D133 /* Info.plist */,
@@ -235,10 +235,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				635CA1701E64E29000F1D133 /* buttonYELLOW.png in Resources */,
 				635CA0D61E5D007E00F1D133 /* LaunchScreen.storyboard in Resources */,
 				635CA0D31E5D007E00F1D133 /* Assets.xcassets in Resources */,
 				635CA0D11E5D007D00F1D133 /* Main.storyboard in Resources */,
-				635CA0FA1E5D0B0900F1D133 /* buttonYELLOW.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
